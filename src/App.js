@@ -9,8 +9,7 @@ function App() {
         <p>
           DevOps Testing  <code>CI-CD</code> ESAN Project
         </p>
-
-          Learn more on React CI/CD Pipeline
+          Semana 15
           <a href="https://www.esan.edu.pe/">learn react</a>
           <p>Prueba de SOftware</p>
       </header>
